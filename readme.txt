@@ -1,6 +1,4 @@
 hello I'm zenglk
 I'm first use the git
 I'm very excited
-xxxxxxxxxxxxxxx
-5555555555555
-33333333333
+78
